@@ -1,0 +1,57 @@
+--------------------------------------------------------------------------------
+ irc2html [2004.04.18] by Andy Dufilie
+--------------------------------------------------------------------------------
+ Website: http://pages.cthome.net/pdufilie/
+--------------------------------------------------------------------------------
+   This script will create .html files using buffers, logs, clipboard contents,
+ or any text you specify containing IRC control codes.  It will use your current
+ mIRC RGB color settings (alt+k).
+
+   Note that if you use this to convert a .log, the colors will not show up if
+ you strip color codes in mIRC logging options (alt+o/irc/logging).
+--------------------------------------------------------------------------------
+
+ ==========
+  Commands
+ ==========
+   Buffer conversion
+     /buf2html [window]
+
+   File conversion
+     /log2html [file]
+
+   Clipboard conversion
+     /cb2html
+     - Copy text to the clipboard before using.
+
+   Single line conversion (output to window)
+     /irc2html <text>
+     - Use several /irc2html commands to output them to the same window.
+
+--------------------------------------------------------------------------------
+
+ =================
+  Version history
+ =================
+   2001.07.29
+   - First release.
+
+   2002.02.12
+   - Rewrote control code parsing algorithm (fixed bugs, optimized output).
+
+   2002.08.22
+   - Font size is now kept.
+
+   2004.02.22
+   - /buf2html now uses mIRC 6.14's new $line().color and filter -z features.
+
+   2004.04.18
+   - Modified /buf2html line color handling.
+   - Fixed a CSS error that was making output files incompatible with Mozilla
+     browsers.  Thanks go to |TREMOR| for pointing out the problem.
+   - The script generates smaller output files now.
+   - The parsing code is now cleaner & easier to understand.
+   - I made a separate alias for modifying the output filename so it's easy to
+     edit.
+
+--------------------------------------------------------------------------------

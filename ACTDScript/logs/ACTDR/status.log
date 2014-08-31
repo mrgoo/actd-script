@@ -1,0 +1,321 @@
+
+Session Start: Fri Aug 29 15:17:37 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.1
+Check out 12http://www.ACTDScript.info/ for regular updates to the ST:ACTD mIRC Script
+*****
+Services Module Loaded
+Oper Module Loaded
+-
+* $dll: unable to open 'D:\mIRC\motfv3.dll' (line 2, ctcp.mrc)
+-
+Session Close: Fri Aug 29 15:21:52 2014
+
+Session Start: Fri Aug 29 15:23:00 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.1
+Check out 12http://www.ACTDScript.info/ for regular updates to the ST:ACTD mIRC Script
+*****
+Services Module Loaded
+Oper Module Loaded
+-
+* /reload: no such file 'D:\mIRC\scripts\ctcp.mrc' (line 12, init.mrc)
+-
+Session Close: Fri Aug 29 15:24:05 2014
+
+Session Start: Fri Aug 29 15:24:08 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.1
+Check out 12http://www.ACTDScript.info/ for regular updates to the ST:ACTD mIRC Script
+*****
+Services Module Loaded
+Oper Module Loaded
+*****
+ST:ACTD Script 1.0.1 is now fully loaded as of 11408.29 at 1524.08 hours
+*****
+$false
+-
+* Connecting to chat.acalltoduty.com (6667)
+-
+11
+Welcome to the ACTDR Chat Network TO_GonnaDie!~actdscrip@98.234.187.251!
+Your host is orion.acalltoduty.com, running Unreal3.2.6
+This Server was compiled: Sun Dec 24 2006 at 01:16:06 EST.
+Server Conf: Unreal3.2.6 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=ACTDR CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=@%+ EXCEPTS are supported by this server
+INVEX are supported by this server
+11
+There are 8 users and 4 invisible users (12 total users) on 2 servers.
+6 operators are online.
+12 channels formed.
+I have 4 clients and 1 server.
+11
+Current Local Users: 4 Max: 61
+Current Global Users: 12 Max: 35
+11
+-
+- orion.acalltoduty.com Message of the Day - 
+-
+End of /MOTD command.
+-
+* TO_GonnaDie sets mode: +x
+-
+Local host: unknown (98.234.187.251)
+-
+* Your nick is now MrGoo
+-
+-NickServ- This nickname is registered and protected.  If it is your nickname, type /msg NickServ IDENTIFY password.  Otherwise, please choose a different nickname.
+-
+-NickServ- If you do not change your nickname within one minute, it will be changed automatically.
+-
+* Saved hash table 'npass' to 'npass.hsh'
+-
+-NickServ- Password accepted -- you are now recognized.
+-
+-ChanServ- This channel has been registered with ChanServ.
+-
+* Your nick is now CO_Capt_Bodine
+-
+REDALERT Unknown command
+-
+ALERTRED Unknown command
+-
+REDALERT Unknown command
+-
+ALERTRED Unknown command
+-
+RED Unknown command
+-
+* Your nick is now TO_GonnaDie
+-
+Session Close: Fri Aug 29 15:35:27 2014
+
+Session Start: Fri Aug 29 15:36:53 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.1
+Check out 12http://www.ACTDScript.info/ for regular updates to the ST:ACTD mIRC Script
+*****
+Services Module Loaded
+Oper Module Loaded
+*****
+ST:ACTD Script 1.0.1 is now fully loaded as of 11408.29 at 1536.54 hours
+*****
+-
+* /hmake: table 'topics' exists
+-
+* /msg: not connected to server (line 13, aliases.ini)
+-
+Session Close: Fri Aug 29 15:38:00 2014
+
+Session Start: Fri Aug 29 15:44:09 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.1
+Check out 12http://www.ACTDScript.info/ for regular updates to the ST:ACTD mIRC Script
+*****
+Services Module Loaded
+Oper Module Loaded
+*****
+ST:ACTD Script 1.0.1 is now fully loaded as of 11408.29 at 1544.09 hours
+*****
+$false
+$false
+$true
+-
+* Connecting to chat.acalltoduty.com (6667)
+-
+11
+Welcome to the ACTDR Chat Network TO_GonnaDie!~actdscrip@98.234.187.251!
+Your host is orion.acalltoduty.com, running Unreal3.2.6
+This Server was compiled: Sun Dec 24 2006 at 01:16:06 EST.
+Server Conf: Unreal3.2.6 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=ACTDR CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=@%+ EXCEPTS are supported by this server
+INVEX are supported by this server
+11
+There are 9 users and 4 invisible users (13 total users) on 2 servers.
+6 operators are online.
+12 channels formed.
+I have 5 clients and 1 server.
+11
+Current Local Users: 5 Max: 61
+Current Global Users: 13 Max: 35
+11
+-
+- orion.acalltoduty.com Message of the Day - 
+-
+End of /MOTD command.
+-
+* TO_GonnaDie sets mode: +x
+-
+Local host: unknown (98.234.187.251)
+-
+-ChanServ- This channel has been registered with ChanServ.
+-
+* Saved hash table 'topics' to 'topics.hsh'
+-
+Session Close: Fri Aug 29 16:07:44 2014
+
+Session Start: Fri Aug 29 16:08:20 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.2
+Check out 12http://www.arcadiastation.com/ for regular updates to the ST:ACTD mIRC Script
+Script Update by mrgoo on Stardate 11408.29
+Script Patched to Support mIRC Version 7.36
+Preinstalled openSSL Libraries Script is now SSL Ready
+Added 2 new aliases /arcadia and /discon (for use with ZNC)
+*****
+Services Module Loaded
+Oper Module Loaded
+*****
+ST:ACTD Script 1.0.2 is now fully loaded as of 11408.29 at 1608.20 hours
+*****
+Session Close: Fri Aug 29 16:15:19 2014
+
+Session Start: Fri Aug 29 16:17:39 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.2
+Check out 12http://www.arcadiastation.com/ for regular updates to the ST:ACTD mIRC Script
+Script Update by mrgoo on Stardate 11408.29
+Script Patched to Support mIRC Version 7.36
+Preinstalled openSSL Libraries Script is now SSL Ready
+Added 2 new aliases /arcadia and /discon (for use with ZNC)
+*****
+Services Module Loaded
+Oper Module Loaded
+*****
+ST:ACTD Script 1.0.2 is now fully loaded as of 11408.29 at 1617.39 hours
+*****
+$true
+Session Close: Fri Aug 29 16:18:09 2014
+
+Session Start: Sun Aug 31 01:54:01 2014
+Session Ident: Status Window
+Starting ST:ACTD mIRC Script 1.0.2
+Check out 12http://www.arcadiastation.com/ for regular updates to the ST:ACTD mIRC Script
+Script Update by mrgoo on Stardate 11408.29
+Script Patched to Support mIRC Version 7.36
+Preinstalled openSSL Libraries Script is now SSL Ready
+Added 2 new aliases /arcadia and /discon (for use with ZNC)
+*****
+Services Module Loaded
+Oper Module Loaded
+*****
+ST:ACTD Script 1.0.2 is now fully loaded as of 11408.31 at 0154.01 hours
+*****
+[02:04:31] 02:04:31
+[02:04:43] 02:04:43
+Session Close: Sun Aug 31 02:16:08 2014
+
+Session Start: Sun Aug 31 02:16:13 2014
+Session Ident: Status Window
+[02:16:14] Starting ST:ACTD mIRC Script 1.0.3
+[02:16:14] Check out http://www.arcadiastation.com/ for regular updates to the ST:ACTD mIRC Script
+[02:16:14] *****
+[02:16:14] Script Update by mrgoo on Stardate 11408.31
+[02:16:14] Script Patched to Support mIRC Version 7.36
+[02:16:14] Preinstalled openSSL Libraries. Script is now SSL Ready
+[02:16:14] Added 2 new aliases /arcadia and /discon (for use with ZNC)
+[02:16:14] Fixed Minor bug in ctcp Script.
+[02:16:14] *****
+[02:16:14] Services Module Loaded
+[02:16:14] Oper Module Loaded
+[02:16:14] *****
+[02:16:14] ST:ACTD Script 1.0.3 is now fully loaded as of 11408.31 at 0216.14 hours
+[02:16:14] *****
+Session Close: Sun Aug 31 02:20:34 2014
+
+Session Start: Sun Aug 31 02:20:38 2014
+Session Ident: Status Window
+[02:20:38] Starting ST:ACTD mIRC Script 1.0.3
+[02:20:38] Check out http://www.arcadiastation.com/ for regular updates to the ST:ACTD mIRC Script
+[02:20:38] *****
+[02:20:38] Script Update by mrgoo on Stardate 11408.31
+[02:20:38] Script Patched to Support mIRC Version 7.36
+[02:20:38] Preinstalled openSSL Libraries. Script is now SSL Ready
+[02:20:38] Added 2 new aliases /arcadia and /discon (for use with ZNC)
+[02:20:38] Fixed Minor bug in ctcp Script.
+[02:20:38] *****
+[02:20:38] Services Module Loaded
+[02:20:38] Oper Module Loaded
+[02:20:38] CTCP Module Loaded
+[02:20:38] *****
+[02:20:38] ST:ACTD Script 1.0.3 is now fully loaded as of 11408.31 at 0220.38 hours
+[02:20:38] *****
+Session Close: Sun Aug 31 02:21:19 2014
+
+Session Start: Sun Aug 31 02:30:07 2014
+Session Ident: Status Window
+[02:30:07] Starting ST:ACTD mIRC Script 1.0.3
+[02:30:07] Check out http://www.arcadiastation.com/ for regular updates to the ST:ACTD mIRC Script
+[02:30:07] *****
+[02:30:07] Script Update by mrgoo on Stardate 11408.31
+[02:30:07] Script Patched to Support mIRC Version 7.36
+[02:30:07] Preinstalled openSSL Libraries. Script is now SSL Ready
+[02:30:07] Added 2 new aliases /arcadia and /discon (for use with ZNC)
+[02:30:07] Fixed Minor bug in ctcp Script.
+[02:30:07] *****
+[02:30:07] Services Module Loaded
+[02:30:07] Oper Module Loaded
+[02:30:07] CTCP Module Loaded
+[02:30:07] *****
+[02:30:07] ST:ACTD Script 1.0.3 is now fully loaded as of 11408.31 at 0230.07 hours
+[02:30:07] *****
+-
+[02:30:31] * /hadd: insufficient parameters
+-
+[02:30:45] * /hadd: insufficient parameters
+-
+[02:32:23] * Saved hash table 'npass' to 'npass.hsh'
+-
+[02:32:23] * /identify: not connected to server (line 40, services.mrc)
+-
+Session Close: Sun Aug 31 02:32:33 2014
+
+Session Start: Sun Aug 31 02:33:09 2014
+Session Ident: Status Window
+[02:33:09] Starting ST:ACTD mIRC Script 1.0.3
+[02:33:09] Check out http://www.arcadiastation.com/ for regular updates to the ST:ACTD mIRC Script
+[02:33:09] *****
+[02:33:09] Script Update by mrgoo on Stardate 11408.31
+[02:33:09] Script Patched to Support mIRC Version 7.36
+[02:33:09] Preinstalled openSSL Libraries. Script is now SSL Ready
+[02:33:09] Added 2 new aliases /arcadia and /discon (for use with ZNC)
+[02:33:09] Fixed Minor bug in ctcp Script.
+[02:33:09] *****
+[02:33:09] Services Module Loaded
+[02:33:09] Oper Module Loaded
+[02:33:09] CTCP Module Loaded
+[02:33:09] *****
+[02:33:09] ST:ACTD Script 1.0.3 is now fully loaded as of 11408.31 at 0233.09 hours
+[02:33:09] *****
+-
+[02:33:12] * Connecting to chat.acalltoduty.com (6667)
+-
+[02:33:12] 
+[02:33:12] Welcome to the ACTDR Chat Network TO_GonnaDie!~actdscrip@98.234.187.251!
+[02:33:12] Your host is orion.acalltoduty.com, running Unreal3.2.6
+[02:33:12] This Server was compiled: Sun Dec 24 2006 at 01:16:06 EST.
+[02:33:12] Server Conf: Unreal3.2.6 iowghraAsORTVSxNCWqBzvdHtGp lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGj
+[02:33:12] CMDS=KNOCK,MAP,DCCALLOW,USERIP NAMESX SAFELIST HCN MAXCHANNELS=20 CHANLIMIT=#:20 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[02:33:12] WALLCHOPS WATCH=128 SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(ohv)@%+ CHANMODES=beIqa,kfL,lj,psmntirRcOAQKVCuzNSMTG NETWORK=ACTDR CASEMAPPING=ascii EXTBAN=~,cqnr ELIST=MNUCT STATUSMSG=@%+ EXCEPTS are supported by this server
+[02:33:12] INVEX are supported by this server
+[02:33:12] 
+[02:33:12] There are 8 users and 4 invisible users (12 total users) on 2 servers.
+[02:33:12] 6 operators are online.
+[02:33:12] 11 channels formed.
+[02:33:12] I have 4 clients and 1 server.
+[02:33:12] 
+[02:33:12] Current Local Users: 4 Max: 61
+[02:33:12] Current Global Users: 12 Max: 35
+[02:33:12] 
+-
+[02:33:12] - orion.acalltoduty.com Message of the Day - 
+-
+[02:33:12] End of /MOTD command.
+-
+[02:33:12] * TO_GonnaDie sets mode: +x
+-
+[02:33:17] Local host: unknown (98.234.187.251)
+-
+Session Close: Sun Aug 31 02:34:17 2014
